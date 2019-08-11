@@ -1,0 +1,2 @@
+# Raytracer
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/55e61bcd39b246048234aeaf7e9238fb)](https://app.codacy.com/app/jordanbonaldi/Raytracer?utm_source=github.com&utm_medium=referral&utm_content=jordanbonaldi/Raytracer&utm_campaign=Badge_Grade_Dashboard)
